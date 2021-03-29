@@ -55,7 +55,7 @@ jQuery(window).load(function () {
     /* Sticky Header
     ============================*/
     $(window).on('scroll', function () {
-      if ($(this).scrollTop() > 688) {
+      if ($(this).scrollTop() > 685) {
         $('.nav-head').addClass("sticky");
       } else {
         $('.nav-head').removeClass("sticky");
