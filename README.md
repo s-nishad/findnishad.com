@@ -6,6 +6,13 @@
 
 <p align="center">
 </br>
+  <a href = "s-nishad.github.io/findnishad.com">EXPLORE HERE</a>
+</br></br>
+
+<h3 align="center">Visit My Website</h3>
+
+<p align="center">
+</br>
   <a href = "http://nishadsplanet.ml">www.findnishad.com</a>
 </br></br>
 
