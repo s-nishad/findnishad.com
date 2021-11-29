@@ -6,14 +6,14 @@
 
 <p align="center">
 </br>
-  <a href = "s-nishad.github.io/findnishad.com">EXPLORE HERE</a>
+  <a href = "https://s-nishad.github.io/findnishad.com">EXPLORE HERE</a>
 </br></br>
 
 <h3 align="center">Visit My Website</h3>
 
 <p align="center">
 </br>
-  <a href = "http://nishadsplanet.ml">www.findnishad.com</a>
+  <a href = "http://nishadsplanet.cf">www.findnishad.com</a>
 </br></br>
 
 <p align="center">
