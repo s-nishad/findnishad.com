@@ -7,14 +7,9 @@
 <p align="center">
 </br>
   <a href = "https://s-nishad.github.io/findnishad.com">EXPLORE HERE</a>
-</br></br>
+</br>
 
 <h3 align="center">Visit My Website</h3>
-
-<p align="center">
-</br>
-  <a href = "http://nishadsplanet.cf">www.findnishad.com</a>
-</br></br>
 
 <p align="center">
     <img src="/assets/img/logo.png" alt="Logo" width="80" height="80">
